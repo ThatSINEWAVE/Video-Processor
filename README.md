@@ -40,10 +40,10 @@ From there the script will guide you through the steps shown below:
 - 3 - Both
 
 3. Choose watermark options:
-- no watermark
-- oricare
-- reducerino
-- all
+- 1 - no watermark
+- 2 - oricare
+- 3 - reducerino
+- 4 - all
 
 4. Enter the number of final videos to create: 
 ( Type the number of videos you want )
