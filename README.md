@@ -1,4 +1,4 @@
-# Video Processor V1
+# Video Processor
 The Video Processor V1 script emerged from a light-hearted debate about automation in the workplace, leading to the creation of a tool capable of automating aspects of ad production. Initially crafted as a jest, this script has evolved into a utility that others might find valuable for streamlining video ad creation processes.
 
 ## Introduction
