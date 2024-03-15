@@ -18,6 +18,8 @@ This script automates several tasks involved in creating simple ads, including s
 - Voice Processing: Integrates with the Narakeet API for generating voiceovers.
 - Logging: Implements the Telegram Bot API for real-time logging and notifications.
 
+## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
 ## Getting Started
 ### Prerequisites
 Ensure you have Python installed on your system and are familiar with package management using pip.
