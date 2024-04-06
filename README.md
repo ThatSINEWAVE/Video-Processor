@@ -1,5 +1,9 @@
+<div align="center">
+
 # Video Processor
 The Video Processor V1 script emerged from a light-hearted debate about automation in the workplace, leading to the creation of a tool capable of automating aspects of ad production. Initially crafted as a jest, this script has evolved into a utility that others might find valuable for streamlining video ad creation processes.
+
+</div>
 
 ## Introduction
 This script automates several tasks involved in creating simple ads, including scene detection, clip cutting, and more. It's shared in the spirit of collaboration, inviting others to refine and expand its capabilities.
@@ -18,7 +22,11 @@ This script automates several tasks involved in creating simple ads, including s
 - Voice Processing: Integrates with the Narakeet API for generating voiceovers.
 - Logging: Implements the Telegram Bot API for real-time logging and notifications.
 
+<div align="center">
+
 ## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
+</div>
 
 ## Getting Started
 ### Prerequisites
