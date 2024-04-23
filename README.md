@@ -37,6 +37,12 @@ Ensure you have Python installed on your system and are familiar with package ma
 - Install the required dependencies listed in requirements.txt using pip install -r requirements.txt.
 - Launch main.py in your preferred IDE or from the command line.
 
+<div align="center">
+
+# [Join my discord server!](https://discord.gg/2nHHHBWNDw)
+
+</div>
+
 ### Usage Guide
 Follow the on-screen prompts to configure the script:
 - RAM Limit: Set the maximum RAM usage for the script (up to 12 GB recommended).
