@@ -39,7 +39,7 @@ Ensure you have Python installed on your system and are familiar with package ma
 
 <div align="center">
 
-# [Join my discord server!](https://discord.gg/2nHHHBWNDw)
+# [Join my discord server](https://discord.gg/2nHHHBWNDw)
 
 </div>
 
