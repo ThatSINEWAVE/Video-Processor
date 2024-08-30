@@ -1,5 +1,5 @@
 numpy
-opencv-python-headless==4.5.3
+opencv-python-headless==4.8.1.78
 pillow==10.3.0
 pydub==0.25.0
 moviepy==1.0.3
