@@ -1,6 +1,6 @@
 numpy
 opencv-python-headless==4.8.1.78
-pillow==10.3.0
+pillow==12.1.1
 pydub==0.25.0
 moviepy==1.0.3
 scikit-image
